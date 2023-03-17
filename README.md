@@ -2,7 +2,7 @@
 
 ## :rocket: Possibilities
 
-This program allows to convert real (float necessary) numbers from base system m to n (2 <= m,n <= 16).
+This program allows to convert real (float necessary) numbers from base number system m to n (2 <= m,n <= 16).
 
 ## :heavy_exclamation_mark: Example of input and output 
 
