@@ -86,6 +86,7 @@ func convertFracPartToDecimal(val string, fromBase int) (string, error) {
 		k--
 	}
 	res := strings.Split(strconv.FormatFloat(floatRes, 'f', Precision, 64), ".")[1]
+	
 	return res, nil
 }
 
